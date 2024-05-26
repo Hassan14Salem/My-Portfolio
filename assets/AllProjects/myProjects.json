@@ -1,0 +1,58 @@
+[
+      {
+           "image":"assets/images/projects/feshcart.png",
+           "mainHeading" :"Fresh Cart",
+           "tech" : "E-Commerce Using Angular",
+           "link":"https://hassan14salem.github.io/fresh-cart/"
+     },
+     
+         {
+           "image":"assets/images/projects/Movies.png",
+           "mainHeading" :"Movies App",
+           "tech" : "Movies App Using Angular",
+           "link":""
+         },
+     
+         {
+           "image":"assets/images/projects/yummy.png",
+           "mainHeading" :"Yummy",
+           "tech" : "Restraunt Recipes Using Angular",
+           "link":""
+         },
+     
+         {
+           "image":"assets/images/projects/todoList.png",
+           "mainHeading" :"To-do-List",
+           "tech" : "Todo-List Using Angular",
+           "link":"https://hassan14salem.github.io/to-do-list/"
+         },
+     
+         {
+           "image":"assets/images/projects/gamingStore.png",
+           "mainHeading" :"Gaming Store",
+           "tech" : "Gaming Store Using Angular",
+           "link":"https://hassan14salem.github.io/Gaming-Store/#/register"
+         },
+     
+         {
+           "image":"assets/images/projects/digitalClock.png",
+           "mainHeading" :"Digital Clock",
+           "tech" : "Using HTML , CSS and JS",
+           "link":"https://hassan14salem.github.io/Digital-Clock/"
+         },
+         {
+           "image":"assets/images/projects/weather.png",
+           "mainHeading" :"Weather App",
+           "tech" : "Using HTML , CSS and JS",
+           "link":""
+         },
+         {
+           "image":"assets/images/projects/quizApp.png",
+           "mainHeading" :"Quiz App",
+           "tech" : "Using Angular",
+           "link":"https://hassan14salem.github.io/Quiz-App"
+         }
+     
+     
+     
+]
